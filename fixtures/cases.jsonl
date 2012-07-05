@@ -1,2 +1,3 @@
 {"expected_error": true, "id": "synthetic-filename-0000", "input": ["../sample_0.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0001", "input": ["Sample_1.TXT", "sample_1.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0002", "input": ["bad\nname_2.txt"]}
