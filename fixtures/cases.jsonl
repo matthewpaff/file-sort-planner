@@ -4,3 +4,4 @@
 {"expected": [{"destination": "hidden/.local_3", "folder": "hidden", "name": ".local_3"}], "id": "synthetic-filename-0003", "input": [".local_3"]}
 {"expected": [{"destination": "other/README_4", "folder": "other", "name": "README_4"}], "id": "synthetic-filename-0004", "input": ["README_4"]}
 {"expected": [{"destination": "code/sample_5_caf\u00e9.py", "folder": "code", "name": "sample_5_caf\u00e9.py"}], "id": "synthetic-filename-0005", "input": ["sample_5_caf\u00e9.py"]}
+{"expected": [{"destination": "other/sample_6_caf\u00e9.unknown", "folder": "other", "name": "sample_6_caf\u00e9.unknown"}], "id": "synthetic-filename-0006", "input": ["sample_6_caf\u00e9.unknown"]}
