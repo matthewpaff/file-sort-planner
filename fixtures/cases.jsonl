@@ -16,3 +16,4 @@
 {"expected_error": true, "id": "synthetic-filename-0015", "input": ["bad\nname_15.txt"]}
 {"expected": [{"destination": "hidden/.local_16", "folder": "hidden", "name": ".local_16"}], "id": "synthetic-filename-0016", "input": [".local_16"]}
 {"expected": [{"destination": "other/README_17", "folder": "other", "name": "README_17"}], "id": "synthetic-filename-0017", "input": ["README_17"]}
+{"expected": [{"destination": "archives/sample_18_caf\u00e9.zip", "folder": "archives", "name": "sample_18_caf\u00e9.zip"}], "id": "synthetic-filename-0018", "input": ["sample_18_caf\u00e9.zip"]}
