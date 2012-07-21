@@ -13,3 +13,4 @@
 {"expected": [{"destination": "code/sample_12_caf\u00e9.py", "folder": "code", "name": "sample_12_caf\u00e9.py"}], "id": "synthetic-filename-0012", "input": ["sample_12_caf\u00e9.py"]}
 {"expected_error": true, "id": "synthetic-filename-0013", "input": ["../sample_13.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0014", "input": ["Sample_14.TXT", "sample_14.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0015", "input": ["bad\nname_15.txt"]}
