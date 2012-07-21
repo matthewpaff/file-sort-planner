@@ -15,3 +15,4 @@
 {"expected_error": true, "id": "synthetic-filename-0014", "input": ["Sample_14.TXT", "sample_14.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0015", "input": ["bad\nname_15.txt"]}
 {"expected": [{"destination": "hidden/.local_16", "folder": "hidden", "name": ".local_16"}], "id": "synthetic-filename-0016", "input": [".local_16"]}
+{"expected": [{"destination": "other/README_17", "folder": "other", "name": "README_17"}], "id": "synthetic-filename-0017", "input": ["README_17"]}
