@@ -26,3 +26,4 @@
 {"expected": [{"destination": "archives/sample_25_caf\u00e9.zip", "folder": "archives", "name": "sample_25_caf\u00e9.zip"}], "id": "synthetic-filename-0025", "input": ["sample_25_caf\u00e9.zip"]}
 {"expected_error": true, "id": "synthetic-filename-0026", "input": ["../sample_26.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0027", "input": ["Sample_27.TXT", "sample_27.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0028", "input": ["bad\nname_28.txt"]}
