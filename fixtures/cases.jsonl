@@ -27,3 +27,4 @@
 {"expected_error": true, "id": "synthetic-filename-0026", "input": ["../sample_26.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0027", "input": ["Sample_27.TXT", "sample_27.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0028", "input": ["bad\nname_28.txt"]}
+{"expected": [{"destination": "hidden/.local_29", "folder": "hidden", "name": ".local_29"}], "id": "synthetic-filename-0029", "input": [".local_29"]}
