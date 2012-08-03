@@ -29,3 +29,4 @@
 {"expected_error": true, "id": "synthetic-filename-0028", "input": ["bad\nname_28.txt"]}
 {"expected": [{"destination": "hidden/.local_29", "folder": "hidden", "name": ".local_29"}], "id": "synthetic-filename-0029", "input": [".local_29"]}
 {"expected": [{"destination": "other/README_30", "folder": "other", "name": "README_30"}], "id": "synthetic-filename-0030", "input": ["README_30"]}
+{"expected": [{"destination": "video/sample_31_caf\u00e9.mp4", "folder": "video", "name": "sample_31_caf\u00e9.mp4"}], "id": "synthetic-filename-0031", "input": ["sample_31_caf\u00e9.mp4"]}
