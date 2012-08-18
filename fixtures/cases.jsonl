@@ -40,3 +40,4 @@
 {"expected_error": true, "id": "synthetic-filename-0039", "input": ["../sample_39.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0040", "input": ["Sample_40.TXT", "sample_40.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0041", "input": ["bad\nname_41.txt"]}
+{"expected": [{"destination": "hidden/.local_42", "folder": "hidden", "name": ".local_42"}], "id": "synthetic-filename-0042", "input": [".local_42"]}
