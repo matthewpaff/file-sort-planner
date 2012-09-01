@@ -54,3 +54,4 @@
 {"expected_error": true, "id": "synthetic-filename-0053", "input": ["Sample_53.TXT", "sample_53.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0054", "input": ["bad\nname_54.txt"]}
 {"expected": [{"destination": "hidden/.local_55", "folder": "hidden", "name": ".local_55"}], "id": "synthetic-filename-0055", "input": [".local_55"]}
+{"expected": [{"destination": "other/README_56", "folder": "other", "name": "README_56"}], "id": "synthetic-filename-0056", "input": ["README_56"]}
