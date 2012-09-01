@@ -55,3 +55,4 @@
 {"expected_error": true, "id": "synthetic-filename-0054", "input": ["bad\nname_54.txt"]}
 {"expected": [{"destination": "hidden/.local_55", "folder": "hidden", "name": ".local_55"}], "id": "synthetic-filename-0055", "input": [".local_55"]}
 {"expected": [{"destination": "other/README_56", "folder": "other", "name": "README_56"}], "id": "synthetic-filename-0056", "input": ["README_56"]}
+{"expected": [{"destination": "images/sample_57_caf\u00e9.png", "folder": "images", "name": "sample_57_caf\u00e9.png"}], "id": "synthetic-filename-0057", "input": ["sample_57_caf\u00e9.png"]}
