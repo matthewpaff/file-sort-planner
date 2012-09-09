@@ -68,3 +68,4 @@
 {"expected_error": true, "id": "synthetic-filename-0067", "input": ["bad\nname_67.txt"]}
 {"expected": [{"destination": "hidden/.local_68", "folder": "hidden", "name": ".local_68"}], "id": "synthetic-filename-0068", "input": [".local_68"]}
 {"expected": [{"destination": "other/README_69", "folder": "other", "name": "README_69"}], "id": "synthetic-filename-0069", "input": ["README_69"]}
+{"expected": [{"destination": "documents/sample_70_caf\u00e9.PDF", "folder": "documents", "name": "sample_70_caf\u00e9.PDF"}], "id": "synthetic-filename-0070", "input": ["sample_70_caf\u00e9.PDF"]}
