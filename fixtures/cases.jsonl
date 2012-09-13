@@ -71,3 +71,4 @@
 {"expected": [{"destination": "documents/sample_70_caf\u00e9.PDF", "folder": "documents", "name": "sample_70_caf\u00e9.PDF"}], "id": "synthetic-filename-0070", "input": ["sample_70_caf\u00e9.PDF"]}
 {"expected": [{"destination": "images/sample_71_caf\u00e9.png", "folder": "images", "name": "sample_71_caf\u00e9.png"}], "id": "synthetic-filename-0071", "input": ["sample_71_caf\u00e9.png"]}
 {"expected": [{"destination": "audio/sample_72_caf\u00e9.MP3", "folder": "audio", "name": "sample_72_caf\u00e9.MP3"}], "id": "synthetic-filename-0072", "input": ["sample_72_caf\u00e9.MP3"]}
+{"expected": [{"destination": "video/sample_73_caf\u00e9.mp4", "folder": "video", "name": "sample_73_caf\u00e9.mp4"}], "id": "synthetic-filename-0073", "input": ["sample_73_caf\u00e9.mp4"]}
