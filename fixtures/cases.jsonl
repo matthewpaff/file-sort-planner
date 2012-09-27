@@ -81,3 +81,4 @@
 {"expected_error": true, "id": "synthetic-filename-0080", "input": ["bad\nname_80.txt"]}
 {"expected": [{"destination": "hidden/.local_81", "folder": "hidden", "name": ".local_81"}], "id": "synthetic-filename-0081", "input": [".local_81"]}
 {"expected": [{"destination": "other/README_82", "folder": "other", "name": "README_82"}], "id": "synthetic-filename-0082", "input": ["README_82"]}
+{"expected": [{"destination": "other/sample_83_caf\u00e9.unknown", "folder": "other", "name": "sample_83_caf\u00e9.unknown"}], "id": "synthetic-filename-0083", "input": ["sample_83_caf\u00e9.unknown"]}
