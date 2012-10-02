@@ -90,3 +90,4 @@
 {"expected": [{"destination": "code/sample_89_caf\u00e9.py", "folder": "code", "name": "sample_89_caf\u00e9.py"}], "id": "synthetic-filename-0089", "input": ["sample_89_caf\u00e9.py"]}
 {"expected": [{"destination": "other/sample_90_caf\u00e9.unknown", "folder": "other", "name": "sample_90_caf\u00e9.unknown"}], "id": "synthetic-filename-0090", "input": ["sample_90_caf\u00e9.unknown"]}
 {"expected_error": true, "id": "synthetic-filename-0091", "input": ["../sample_91.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0092", "input": ["Sample_92.TXT", "sample_92.txt"]}
