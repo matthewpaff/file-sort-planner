@@ -91,3 +91,4 @@
 {"expected": [{"destination": "other/sample_90_caf\u00e9.unknown", "folder": "other", "name": "sample_90_caf\u00e9.unknown"}], "id": "synthetic-filename-0090", "input": ["sample_90_caf\u00e9.unknown"]}
 {"expected_error": true, "id": "synthetic-filename-0091", "input": ["../sample_91.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0092", "input": ["Sample_92.TXT", "sample_92.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0093", "input": ["bad\nname_93.txt"]}
