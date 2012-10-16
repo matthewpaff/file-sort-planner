@@ -108,3 +108,4 @@
 {"expected": [{"destination": "hidden/.local_107", "folder": "hidden", "name": ".local_107"}], "id": "synthetic-filename-0107", "input": [".local_107"]}
 {"expected": [{"destination": "other/README_108", "folder": "other", "name": "README_108"}], "id": "synthetic-filename-0108", "input": ["README_108"]}
 {"expected": [{"destination": "archives/sample_109_caf\u00e9.zip", "folder": "archives", "name": "sample_109_caf\u00e9.zip"}], "id": "synthetic-filename-0109", "input": ["sample_109_caf\u00e9.zip"]}
+{"expected": [{"destination": "code/sample_110_caf\u00e9.py", "folder": "code", "name": "sample_110_caf\u00e9.py"}], "id": "synthetic-filename-0110", "input": ["sample_110_caf\u00e9.py"]}
