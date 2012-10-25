@@ -117,3 +117,4 @@
 {"expected": [{"destination": "archives/sample_116_caf\u00e9.zip", "folder": "archives", "name": "sample_116_caf\u00e9.zip"}], "id": "synthetic-filename-0116", "input": ["sample_116_caf\u00e9.zip"]}
 {"expected_error": true, "id": "synthetic-filename-0117", "input": ["../sample_117.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0118", "input": ["Sample_118.TXT", "sample_118.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0119", "input": ["bad\nname_119.txt"]}
