@@ -120,3 +120,4 @@
 {"expected_error": true, "id": "synthetic-filename-0119", "input": ["bad\nname_119.txt"]}
 {"expected": [{"destination": "hidden/.local_120", "folder": "hidden", "name": ".local_120"}], "id": "synthetic-filename-0120", "input": [".local_120"]}
 {"expected": [{"destination": "other/README_121", "folder": "other", "name": "README_121"}], "id": "synthetic-filename-0121", "input": ["README_121"]}
+{"expected": [{"destination": "video/sample_122_caf\u00e9.mp4", "folder": "video", "name": "sample_122_caf\u00e9.mp4"}], "id": "synthetic-filename-0122", "input": ["sample_122_caf\u00e9.mp4"]}
