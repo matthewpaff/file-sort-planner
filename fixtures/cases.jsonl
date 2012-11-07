@@ -134,3 +134,4 @@
 {"expected": [{"destination": "hidden/.local_133", "folder": "hidden", "name": ".local_133"}], "id": "synthetic-filename-0133", "input": [".local_133"]}
 {"expected": [{"destination": "other/README_134", "folder": "other", "name": "README_134"}], "id": "synthetic-filename-0134", "input": ["README_134"]}
 {"expected": [{"destination": "audio/sample_135_caf\u00e9.MP3", "folder": "audio", "name": "sample_135_caf\u00e9.MP3"}], "id": "synthetic-filename-0135", "input": ["sample_135_caf\u00e9.MP3"]}
+{"expected": [{"destination": "video/sample_136_caf\u00e9.mp4", "folder": "video", "name": "sample_136_caf\u00e9.mp4"}], "id": "synthetic-filename-0136", "input": ["sample_136_caf\u00e9.mp4"]}
