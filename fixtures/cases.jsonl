@@ -143,3 +143,4 @@
 {"expected": [{"destination": "audio/sample_142_caf\u00e9.MP3", "folder": "audio", "name": "sample_142_caf\u00e9.MP3"}], "id": "synthetic-filename-0142", "input": ["sample_142_caf\u00e9.MP3"]}
 {"expected_error": true, "id": "synthetic-filename-0143", "input": ["../sample_143.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0144", "input": ["Sample_144.TXT", "sample_144.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0145", "input": ["bad\nname_145.txt"]}
