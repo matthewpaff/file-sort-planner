@@ -149,3 +149,4 @@
 {"expected": [{"destination": "images/sample_148_caf\u00e9.png", "folder": "images", "name": "sample_148_caf\u00e9.png"}], "id": "synthetic-filename-0148", "input": ["sample_148_caf\u00e9.png"]}
 {"expected": [{"destination": "audio/sample_149_caf\u00e9.MP3", "folder": "audio", "name": "sample_149_caf\u00e9.MP3"}], "id": "synthetic-filename-0149", "input": ["sample_149_caf\u00e9.MP3"]}
 {"expected": [{"destination": "video/sample_150_caf\u00e9.mp4", "folder": "video", "name": "sample_150_caf\u00e9.mp4"}], "id": "synthetic-filename-0150", "input": ["sample_150_caf\u00e9.mp4"]}
+{"expected": [{"destination": "archives/sample_151_caf\u00e9.zip", "folder": "archives", "name": "sample_151_caf\u00e9.zip"}], "id": "synthetic-filename-0151", "input": ["sample_151_caf\u00e9.zip"]}
