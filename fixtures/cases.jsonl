@@ -156,3 +156,4 @@
 {"expected": [{"destination": "images/sample_155_caf\u00e9.png", "folder": "images", "name": "sample_155_caf\u00e9.png"}], "id": "synthetic-filename-0155", "input": ["sample_155_caf\u00e9.png"]}
 {"expected_error": true, "id": "synthetic-filename-0156", "input": ["../sample_156.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0157", "input": ["Sample_157.TXT", "sample_157.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0158", "input": ["bad\nname_158.txt"]}
