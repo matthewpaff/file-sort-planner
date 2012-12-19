@@ -172,3 +172,4 @@
 {"expected_error": true, "id": "synthetic-filename-0171", "input": ["bad\nname_171.txt"]}
 {"expected": [{"destination": "hidden/.local_172", "folder": "hidden", "name": ".local_172"}], "id": "synthetic-filename-0172", "input": [".local_172"]}
 {"expected": [{"destination": "other/README_173", "folder": "other", "name": "README_173"}], "id": "synthetic-filename-0173", "input": ["README_173"]}
+{"expected": [{"destination": "other/sample_174_caf\u00e9.unknown", "folder": "other", "name": "sample_174_caf\u00e9.unknown"}], "id": "synthetic-filename-0174", "input": ["sample_174_caf\u00e9.unknown"]}
