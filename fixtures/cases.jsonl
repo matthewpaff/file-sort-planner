@@ -180,3 +180,4 @@
 {"expected": [{"destination": "archives/sample_179_caf\u00e9.zip", "folder": "archives", "name": "sample_179_caf\u00e9.zip"}], "id": "synthetic-filename-0179", "input": ["sample_179_caf\u00e9.zip"]}
 {"expected": [{"destination": "code/sample_180_caf\u00e9.py", "folder": "code", "name": "sample_180_caf\u00e9.py"}], "id": "synthetic-filename-0180", "input": ["sample_180_caf\u00e9.py"]}
 {"expected": [{"destination": "other/sample_181_caf\u00e9.unknown", "folder": "other", "name": "sample_181_caf\u00e9.unknown"}], "id": "synthetic-filename-0181", "input": ["sample_181_caf\u00e9.unknown"]}
+{"expected_error": true, "id": "synthetic-filename-0182", "input": ["../sample_182.txt"]}
