@@ -210,3 +210,4 @@
 {"expected_error": true, "id": "synthetic-filename-0209", "input": ["Sample_209.TXT", "sample_209.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0210", "input": ["bad\nname_210.txt"]}
 {"expected": [{"destination": "hidden/.local_211", "folder": "hidden", "name": ".local_211"}], "id": "synthetic-filename-0211", "input": [".local_211"]}
+{"expected": [{"destination": "other/README_212", "folder": "other", "name": "README_212"}], "id": "synthetic-filename-0212", "input": ["README_212"]}
