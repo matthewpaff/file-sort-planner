@@ -214,3 +214,4 @@
 {"expected": [{"destination": "video/sample_213_caf\u00e9.mp4", "folder": "video", "name": "sample_213_caf\u00e9.mp4"}], "id": "synthetic-filename-0213", "input": ["sample_213_caf\u00e9.mp4"]}
 {"expected": [{"destination": "archives/sample_214_caf\u00e9.zip", "folder": "archives", "name": "sample_214_caf\u00e9.zip"}], "id": "synthetic-filename-0214", "input": ["sample_214_caf\u00e9.zip"]}
 {"expected": [{"destination": "code/sample_215_caf\u00e9.py", "folder": "code", "name": "sample_215_caf\u00e9.py"}], "id": "synthetic-filename-0215", "input": ["sample_215_caf\u00e9.py"]}
+{"expected": [{"destination": "other/sample_216_caf\u00e9.unknown", "folder": "other", "name": "sample_216_caf\u00e9.unknown"}], "id": "synthetic-filename-0216", "input": ["sample_216_caf\u00e9.unknown"]}
