@@ -212,3 +212,4 @@
 {"expected": [{"destination": "hidden/.local_211", "folder": "hidden", "name": ".local_211"}], "id": "synthetic-filename-0211", "input": [".local_211"]}
 {"expected": [{"destination": "other/README_212", "folder": "other", "name": "README_212"}], "id": "synthetic-filename-0212", "input": ["README_212"]}
 {"expected": [{"destination": "video/sample_213_caf\u00e9.mp4", "folder": "video", "name": "sample_213_caf\u00e9.mp4"}], "id": "synthetic-filename-0213", "input": ["sample_213_caf\u00e9.mp4"]}
+{"expected": [{"destination": "archives/sample_214_caf\u00e9.zip", "folder": "archives", "name": "sample_214_caf\u00e9.zip"}], "id": "synthetic-filename-0214", "input": ["sample_214_caf\u00e9.zip"]}
