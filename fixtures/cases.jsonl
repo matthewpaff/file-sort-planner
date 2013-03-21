@@ -217,3 +217,4 @@
 {"expected": [{"destination": "other/sample_216_caf\u00e9.unknown", "folder": "other", "name": "sample_216_caf\u00e9.unknown"}], "id": "synthetic-filename-0216", "input": ["sample_216_caf\u00e9.unknown"]}
 {"expected": [{"destination": "documents/sample_217_caf\u00e9.PDF", "folder": "documents", "name": "sample_217_caf\u00e9.PDF"}], "id": "synthetic-filename-0217", "input": ["sample_217_caf\u00e9.PDF"]}
 {"expected": [{"destination": "images/sample_218_caf\u00e9.png", "folder": "images", "name": "sample_218_caf\u00e9.png"}], "id": "synthetic-filename-0218", "input": ["sample_218_caf\u00e9.png"]}
+{"expected": [{"destination": "audio/sample_219_caf\u00e9.MP3", "folder": "audio", "name": "sample_219_caf\u00e9.MP3"}], "id": "synthetic-filename-0219", "input": ["sample_219_caf\u00e9.MP3"]}
