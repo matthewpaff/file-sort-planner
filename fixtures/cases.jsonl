@@ -222,3 +222,4 @@
 {"expected_error": true, "id": "synthetic-filename-0221", "input": ["../sample_221.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0222", "input": ["Sample_222.TXT", "sample_222.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0223", "input": ["bad\nname_223.txt"]}
+{"expected": [{"destination": "hidden/.local_224", "folder": "hidden", "name": ".local_224"}], "id": "synthetic-filename-0224", "input": [".local_224"]}
