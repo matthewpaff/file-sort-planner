@@ -233,3 +233,4 @@
 {"expected": [{"destination": "images/sample_232_caf\u00e9.png", "folder": "images", "name": "sample_232_caf\u00e9.png"}], "id": "synthetic-filename-0232", "input": ["sample_232_caf\u00e9.png"]}
 {"expected": [{"destination": "audio/sample_233_caf\u00e9.MP3", "folder": "audio", "name": "sample_233_caf\u00e9.MP3"}], "id": "synthetic-filename-0233", "input": ["sample_233_caf\u00e9.MP3"]}
 {"expected_error": true, "id": "synthetic-filename-0234", "input": ["../sample_234.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0235", "input": ["Sample_235.TXT", "sample_235.txt"]}
