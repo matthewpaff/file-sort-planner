@@ -247,3 +247,4 @@
 {"expected": [{"destination": "images/sample_246_caf\u00e9.png", "folder": "images", "name": "sample_246_caf\u00e9.png"}], "id": "synthetic-filename-0246", "input": ["sample_246_caf\u00e9.png"]}
 {"expected_error": true, "id": "synthetic-filename-0247", "input": ["../sample_247.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0248", "input": ["Sample_248.TXT", "sample_248.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0249", "input": ["bad\nname_249.txt"]}
