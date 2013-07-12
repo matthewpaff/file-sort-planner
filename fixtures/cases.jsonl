@@ -272,3 +272,4 @@
 {"expected": [{"destination": "code/sample_271_caf\u00e9.py", "folder": "code", "name": "sample_271_caf\u00e9.py"}], "id": "synthetic-filename-0271", "input": ["sample_271_caf\u00e9.py"]}
 {"expected": [{"destination": "other/sample_272_caf\u00e9.unknown", "folder": "other", "name": "sample_272_caf\u00e9.unknown"}], "id": "synthetic-filename-0272", "input": ["sample_272_caf\u00e9.unknown"]}
 {"expected_error": true, "id": "synthetic-filename-0273", "input": ["../sample_273.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0274", "input": ["Sample_274.TXT", "sample_274.txt"]}
