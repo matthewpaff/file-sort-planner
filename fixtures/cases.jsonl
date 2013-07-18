@@ -276,3 +276,4 @@
 {"expected_error": true, "id": "synthetic-filename-0275", "input": ["bad\nname_275.txt"]}
 {"expected": [{"destination": "hidden/.local_276", "folder": "hidden", "name": ".local_276"}], "id": "synthetic-filename-0276", "input": [".local_276"]}
 {"expected": [{"destination": "other/README_277", "folder": "other", "name": "README_277"}], "id": "synthetic-filename-0277", "input": ["README_277"]}
+{"expected": [{"destination": "code/sample_278_caf\u00e9.py", "folder": "code", "name": "sample_278_caf\u00e9.py"}], "id": "synthetic-filename-0278", "input": ["sample_278_caf\u00e9.py"]}
