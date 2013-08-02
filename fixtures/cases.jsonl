@@ -285,3 +285,4 @@
 {"expected": [{"destination": "archives/sample_284_caf\u00e9.zip", "folder": "archives", "name": "sample_284_caf\u00e9.zip"}], "id": "synthetic-filename-0284", "input": ["sample_284_caf\u00e9.zip"]}
 {"expected": [{"destination": "code/sample_285_caf\u00e9.py", "folder": "code", "name": "sample_285_caf\u00e9.py"}], "id": "synthetic-filename-0285", "input": ["sample_285_caf\u00e9.py"]}
 {"expected_error": true, "id": "synthetic-filename-0286", "input": ["../sample_286.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0287", "input": ["Sample_287.TXT", "sample_287.txt"]}
