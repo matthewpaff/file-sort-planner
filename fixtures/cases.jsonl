@@ -286,3 +286,4 @@
 {"expected": [{"destination": "code/sample_285_caf\u00e9.py", "folder": "code", "name": "sample_285_caf\u00e9.py"}], "id": "synthetic-filename-0285", "input": ["sample_285_caf\u00e9.py"]}
 {"expected_error": true, "id": "synthetic-filename-0286", "input": ["../sample_286.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0287", "input": ["Sample_287.TXT", "sample_287.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0288", "input": ["bad\nname_288.txt"]}
