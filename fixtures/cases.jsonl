@@ -299,3 +299,4 @@
 {"expected": [{"destination": "archives/sample_298_caf\u00e9.zip", "folder": "archives", "name": "sample_298_caf\u00e9.zip"}], "id": "synthetic-filename-0298", "input": ["sample_298_caf\u00e9.zip"]}
 {"expected_error": true, "id": "synthetic-filename-0299", "input": ["../sample_299.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0300", "input": ["Sample_300.TXT", "sample_300.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0301", "input": ["bad\nname_301.txt"]}
