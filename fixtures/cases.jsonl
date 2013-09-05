@@ -302,3 +302,4 @@
 {"expected_error": true, "id": "synthetic-filename-0301", "input": ["bad\nname_301.txt"]}
 {"expected": [{"destination": "hidden/.local_302", "folder": "hidden", "name": ".local_302"}], "id": "synthetic-filename-0302", "input": [".local_302"]}
 {"expected": [{"destination": "other/README_303", "folder": "other", "name": "README_303"}], "id": "synthetic-filename-0303", "input": ["README_303"]}
+{"expected": [{"destination": "video/sample_304_caf\u00e9.mp4", "folder": "video", "name": "sample_304_caf\u00e9.mp4"}], "id": "synthetic-filename-0304", "input": ["sample_304_caf\u00e9.mp4"]}
