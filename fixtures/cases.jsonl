@@ -324,3 +324,4 @@
 {"expected": [{"destination": "images/sample_323_caf\u00e9.png", "folder": "images", "name": "sample_323_caf\u00e9.png"}], "id": "synthetic-filename-0323", "input": ["sample_323_caf\u00e9.png"]}
 {"expected": [{"destination": "audio/sample_324_caf\u00e9.MP3", "folder": "audio", "name": "sample_324_caf\u00e9.MP3"}], "id": "synthetic-filename-0324", "input": ["sample_324_caf\u00e9.MP3"]}
 {"expected_error": true, "id": "synthetic-filename-0325", "input": ["../sample_325.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0326", "input": ["Sample_326.TXT", "sample_326.txt"]}
