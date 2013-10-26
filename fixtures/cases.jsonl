@@ -333,3 +333,4 @@
 {"expected": [{"destination": "video/sample_332_caf\u00e9.mp4", "folder": "video", "name": "sample_332_caf\u00e9.mp4"}], "id": "synthetic-filename-0332", "input": ["sample_332_caf\u00e9.mp4"]}
 {"expected": [{"destination": "archives/sample_333_caf\u00e9.zip", "folder": "archives", "name": "sample_333_caf\u00e9.zip"}], "id": "synthetic-filename-0333", "input": ["sample_333_caf\u00e9.zip"]}
 {"expected": [{"destination": "code/sample_334_caf\u00e9.py", "folder": "code", "name": "sample_334_caf\u00e9.py"}], "id": "synthetic-filename-0334", "input": ["sample_334_caf\u00e9.py"]}
+{"expected": [{"destination": "other/sample_335_caf\u00e9.unknown", "folder": "other", "name": "sample_335_caf\u00e9.unknown"}], "id": "synthetic-filename-0335", "input": ["sample_335_caf\u00e9.unknown"]}
