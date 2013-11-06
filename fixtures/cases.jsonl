@@ -338,3 +338,4 @@
 {"expected": [{"destination": "images/sample_337_caf\u00e9.png", "folder": "images", "name": "sample_337_caf\u00e9.png"}], "id": "synthetic-filename-0337", "input": ["sample_337_caf\u00e9.png"]}
 {"expected_error": true, "id": "synthetic-filename-0338", "input": ["../sample_338.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0339", "input": ["Sample_339.TXT", "sample_339.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0340", "input": ["bad\nname_340.txt"]}
