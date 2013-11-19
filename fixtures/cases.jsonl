@@ -341,3 +341,4 @@
 {"expected_error": true, "id": "synthetic-filename-0340", "input": ["bad\nname_340.txt"]}
 {"expected": [{"destination": "hidden/.local_341", "folder": "hidden", "name": ".local_341"}], "id": "synthetic-filename-0341", "input": [".local_341"]}
 {"expected": [{"destination": "other/README_342", "folder": "other", "name": "README_342"}], "id": "synthetic-filename-0342", "input": ["README_342"]}
+{"expected": [{"destination": "documents/sample_343_caf\u00e9.PDF", "folder": "documents", "name": "sample_343_caf\u00e9.PDF"}], "id": "synthetic-filename-0343", "input": ["sample_343_caf\u00e9.PDF"]}
