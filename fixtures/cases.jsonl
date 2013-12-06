@@ -349,3 +349,4 @@
 {"expected": [{"destination": "code/sample_348_caf\u00e9.py", "folder": "code", "name": "sample_348_caf\u00e9.py"}], "id": "synthetic-filename-0348", "input": ["sample_348_caf\u00e9.py"]}
 {"expected": [{"destination": "other/sample_349_caf\u00e9.unknown", "folder": "other", "name": "sample_349_caf\u00e9.unknown"}], "id": "synthetic-filename-0349", "input": ["sample_349_caf\u00e9.unknown"]}
 {"expected": [{"destination": "documents/sample_350_caf\u00e9.PDF", "folder": "documents", "name": "sample_350_caf\u00e9.PDF"}], "id": "synthetic-filename-0350", "input": ["sample_350_caf\u00e9.PDF"]}
+{"expected_error": true, "id": "synthetic-filename-0351", "input": ["../sample_351.txt"]}
