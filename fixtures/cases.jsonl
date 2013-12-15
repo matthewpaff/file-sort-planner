@@ -353,3 +353,4 @@
 {"expected_error": true, "id": "synthetic-filename-0352", "input": ["Sample_352.TXT", "sample_352.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0353", "input": ["bad\nname_353.txt"]}
 {"expected": [{"destination": "hidden/.local_354", "folder": "hidden", "name": ".local_354"}], "id": "synthetic-filename-0354", "input": [".local_354"]}
+{"expected": [{"destination": "other/README_355", "folder": "other", "name": "README_355"}], "id": "synthetic-filename-0355", "input": ["README_355"]}
