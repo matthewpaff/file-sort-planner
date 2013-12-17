@@ -356,3 +356,4 @@
 {"expected": [{"destination": "other/README_355", "folder": "other", "name": "README_355"}], "id": "synthetic-filename-0355", "input": ["README_355"]}
 {"expected": [{"destination": "other/sample_356_caf\u00e9.unknown", "folder": "other", "name": "sample_356_caf\u00e9.unknown"}], "id": "synthetic-filename-0356", "input": ["sample_356_caf\u00e9.unknown"]}
 {"expected": [{"destination": "documents/sample_357_caf\u00e9.PDF", "folder": "documents", "name": "sample_357_caf\u00e9.PDF"}], "id": "synthetic-filename-0357", "input": ["sample_357_caf\u00e9.PDF"]}
+{"expected": [{"destination": "images/sample_358_caf\u00e9.png", "folder": "images", "name": "sample_358_caf\u00e9.png"}], "id": "synthetic-filename-0358", "input": ["sample_358_caf\u00e9.png"]}
