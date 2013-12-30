@@ -364,3 +364,4 @@
 {"expected": [{"destination": "other/sample_363_caf\u00e9.unknown", "folder": "other", "name": "sample_363_caf\u00e9.unknown"}], "id": "synthetic-filename-0363", "input": ["sample_363_caf\u00e9.unknown"]}
 {"expected_error": true, "id": "synthetic-filename-0364", "input": ["../sample_364.txt"]}
 {"expected_error": true, "id": "synthetic-filename-0365", "input": ["Sample_365.TXT", "sample_365.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0366", "input": ["bad\nname_366.txt"]}
