@@ -363,3 +363,4 @@
 {"expected": [{"destination": "code/sample_362_caf\u00e9.py", "folder": "code", "name": "sample_362_caf\u00e9.py"}], "id": "synthetic-filename-0362", "input": ["sample_362_caf\u00e9.py"]}
 {"expected": [{"destination": "other/sample_363_caf\u00e9.unknown", "folder": "other", "name": "sample_363_caf\u00e9.unknown"}], "id": "synthetic-filename-0363", "input": ["sample_363_caf\u00e9.unknown"]}
 {"expected_error": true, "id": "synthetic-filename-0364", "input": ["../sample_364.txt"]}
+{"expected_error": true, "id": "synthetic-filename-0365", "input": ["Sample_365.TXT", "sample_365.txt"]}
